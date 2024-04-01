@@ -1,9 +1,9 @@
 
 # Hello! I am Guilherme Jorge Hauck 👋🏻👨🏻‍🚀
 
-##### Graduated in human resources and currently studying Systems Analysis and Development at Faculdade das Américas - FAM. I have knowledge of Excel and Power BI platforms for developing data analysis.
+#### Graduated in human resources and currently studying Systems Analysis and Development at Faculdade das Américas - FAM. I have knowledge of Excel and Power BI platforms for developing data analysis.
 
-##### Expanding my programming knowledge through Rocketseat 🚀 in the FullStack training format.
+#### Expanding my programming knowledge through Rocketseat 🚀 in the FullStack training format.
 
 ## My contacts 📡
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-jorge-hauck-9aa875182)
